@@ -1,0 +1,50 @@
+* {
+    background-color: black;
+    color: crimson;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    
+ }
+
+.h1 {
+    background-color: aquamarine;
+    color: navy;
+    font-style: italic;
+    font-size: 24px;
+    border: 3px solid;
+}
+ 
+ .exercise {
+     font-family: Arial, Helvetica, sans-serif;
+     font-style: italic;
+     font-weight: bold;
+     line-height: 150%;
+     border: 2px solid;
+     padding: 30px 10px;
+     background-color: snow;
+     color: crimson;
+     margin: 25px;
+     font-size: 16px;
+ }
+ 
+ button {
+     background-color: darkgreen;
+     color: yellow;
+     padding: 10px 20px;
+     border: 2px dashed;
+     border-radius: 10px;
+     cursor: pointer;
+     font-size: 16px;
+     font-weight: bold;
+ }
+ 
+ button:hover {
+     background-color: pink;
+     color: orangered;
+ }
+ 
+ button:active {
+     background-color: red;
+     color: blanchedalmond;
+ }
