@@ -1,3 +1,4 @@
+
 let age = 19;           // in years
 let height = 10;       // in centimeters
 let temperature = 64;   // in Fahrenheit

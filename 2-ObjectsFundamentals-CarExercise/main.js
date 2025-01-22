@@ -25,7 +25,7 @@
  car.drive(100);
  console.log(`Car age: ${car.carAge()} years`); 
  
---
+// --
 
 
 // Below is more stuff I am trying to remember how to do on my own and it isn't working.
@@ -34,7 +34,8 @@
  console.log(car.carAge);                       // this doesn't give me **15** like I hoped it would
                                                 // if I can't get **15** then I sure as heck can't go on with the if-then stuff after that
                                                 // it throws up what appears to be the whole stinking function in the console
-
+console.log(car);
+console.log(car.drive);
 
  if (car.carAge >= 10) {                                                // and this comes up with an error message I totally dunno
         console.log(`Your car is getting old and crappy!`);
